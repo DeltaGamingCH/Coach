@@ -1,6 +1,6 @@
 # Coach
 
-Organize, structure, and study with Coach. Organized Tasks, Documents and time tracking. 
+Organize, structure, and study with Coach. Organized Tasks, Documents, and more. 
 
 
 ## Project Details
